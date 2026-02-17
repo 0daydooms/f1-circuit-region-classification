@@ -22,7 +22,7 @@ using geographic and engineered features.
 ## Dataset
 
 - **Source:** Formula 1 World Championship dataset (`circuits.csv`)
-- **Samples:** ~77 circuits
+- **Samples:** ~79 circuits
 - **Features:** Latitude, Longitude, Altitude, Name Length, Absolute Latitude
 - **Target:** Region (Europe, Americas, Asia/Oceania)
 
